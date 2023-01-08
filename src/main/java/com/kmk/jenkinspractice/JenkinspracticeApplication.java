@@ -1,4 +1,4 @@
-package com.kmk.jenkinspractice.jenkinspractice;
+package com.kmk.jenkinspractice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
